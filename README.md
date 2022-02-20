@@ -26,14 +26,11 @@ I have built a minor project where I have analysed the data, cleaned the data, d
 
 The major project assigned in this internship required me to work with Multinomial Naive Bayes, K-Nearest Neighbors(knn) and Random Forest models for a given dataset (problem) and to decide which is the best classification algorithm (as per accuracy).
 
-I have worked upon Information.csv dataset for this project.
-
-I also performed Exploratory Data Analysis on the data set given by Verzeo team. 
+I have worked upon Information.csv dataset for this project. I also performed Exploratory Data Analysis on the data set given by Verzeo team. Moreover, I have performed Ensemble Learning where I have built a model using the 3 classfication algorithms which resulted in an accuracy of 61%.
 Based on the observations, the project was successfully completed. 
 
-However, the answers to the questions can be found here [**"Mini Project Answers.pdf"**][3].
-
 ## Tasks Perfromed :
+
 - Exploratory Data Analysis
 - Cleaning the Data
 - Data Visualization
@@ -43,17 +40,17 @@ However, the answers to the questions can be found here [**"Mini Project Answers
   - Multinomial Naive Bayes
   - K-Nearest Neighbors(knn)
   - Random Forest(rfc)
-  
 - Ensemble Learning method - Vote Classifier
 - Answered the following questions :
-
 <pre>
 Q1) What are the most common emotions/words used by Males and Females?
 Q2) What is the time when most of the tweets are created by Males and Females?
 </pre>
 
+However, the answers to the questions can be found here [**"Major Project Summary.pdf"**][3].
+
 ## Conclusion:
-The project now classfies the common emotions/words used  an also the time when most of the tweets are created by a specific gender i.e., Male and Female.
+The project now classfies the common emotions/words used and also the time when most of the tweets are created by a specific gender i.e., by Males and Females.
 This is my first project based on Machine Learning. 
 
 **For more details about the project, please refer to [**"Major Project.ipynb"**][4]**.
