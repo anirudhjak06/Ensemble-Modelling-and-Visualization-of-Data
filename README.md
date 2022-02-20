@@ -24,7 +24,7 @@ I have built a minor project where I have analysed the data, cleaned the data, d
 
 ## MAJOR PROJECT
 
-The major project assigned in this internship required me to work with Multinomial Naive Bayes, K-Nearest Neighbors(knn) and Random Forest models for a given dataset (problem) and to decide which is the best classification algorithm (as per accuracy).
+The major project assigned in this internship required me to work with Multinomial Naive Bayes, K-Nearest Neighbors (KNN) and Random Forest models for a given dataset (problem) and to decide which is the best classification algorithm (as per accuracy).
 
 I have worked upon Information.csv dataset for this project. I also performed Exploratory Data Analysis on the data set given by Verzeo team. Moreover, I have performed Ensemble Learning where I have built a model using the 3 classfication algorithms which resulted in an accuracy of 61%.
 Based on the observations, the project was successfully completed. 
@@ -38,8 +38,8 @@ Based on the observations, the project was successfully completed.
 - Feature Engineering
 - Classification algorithms such as :
   - Multinomial Naive Bayes
-  - K-Nearest Neighbors(knn)
-  - Random Forest(rfc)
+  - K-Nearest Neighbors (KNN)
+  - Random Forest (RFC)
 - Ensemble Learning method - Vote Classifier
 - Answered the following questions :
 <pre>
