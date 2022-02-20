@@ -1,7 +1,7 @@
 # Ensemble-Modelling-and-Visualization-of-Data
 ## A Major and Minor Project built during Verzeo Internship
 
-I joined the team Verzeo for the internship between June-August 2020. 
+I have joined the Team Verzeo for the Internship between June-August 2020. 
 
 ## MINOR PROJECT
 
@@ -14,7 +14,7 @@ I have built a minor project where I have analysed, cleaned the data, detected o
 5) What is the average runtime of movies in the year 2006?
 6) Name any 3 production companies which have invested money in worse revenue movies?
 
-For more details about the project please refer to [**"Mini Project Answers.pdf"**][1] 
+**For more details about the project please refer to [**"Mini Project Answers.pdf"**][1]**
 
 [1]: https://github.com/anirudhjak06/Ensemble-Modelling-and-Visualization-of-Data/blob/main/ML-MINI-PROJECT/Mini%20Project%20Answers.pdf "Title"
 
